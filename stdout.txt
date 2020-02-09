@@ -1,0 +1,14 @@
+Starting a Gradle Daemon, 2 incompatible Daemons could not be reused, use --status for details
+> Task :clean
+
+> Task :compileJava
+
+> Task :processResources
+> Task :classes
+> Task :compileTestJava
+> Task :processTestResources NO-SOURCE
+> Task :testClasses
+> Task :test
+
+BUILD SUCCESSFUL in 54s
+5 actionable tasks: 5 executed
