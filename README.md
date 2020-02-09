@@ -1,23 +1,31 @@
-# Processe dados dos jogadores do FIFA© 2017 usando Java
+# CURSO DE DESENVOLVEDOR BACKEND - JAVA - CODENATION GUIABOLSO
 
-Utilizando Java, você deverá descobrir quais são os melhores jogadores, quais os mais valiosos e quais são suas nacionalidades.
+Curso realizado em 2020 em parceria com o GuiaBolso duraten 10 semanas. O git foi organizado por branches, cada branch equivale a uma semana
 
-## Tópicos
-
-Neste desafio você aprenderá:
-
+## Semana 1
+Conteúdos:
 - Java
-- Ler arquivo CSV
-- Processar grandes quantidades de dados
+- Lógica de programação
+- Operadores matemáticos
+- Laços de repetição
+- Condicionais
+
+Desafio: Calculadora de salário líquido
 
 
-## Requisitos
-​
-Para este desafio você precisará de:
+## Semana 2
+Conteúdos:
+- Arrays
+- Métodos booleanos, Interger
+- Exercícios: Pessoa, Agenda e Elevador (não concluídos)
 
-- Java 8 (ou superior)
-- Git
+Desafio: Sequencia de Fibonacci
 
-## Detalhes
+## Semana 3
 
-Os detalhes estão em comentários no arquivo _Main.java_
+- API Java util
+- Streams (map, filter, collect, distinct, sorted, limit)
+- Mapeamento, Lis, ArrayList
+- Ler CSV
+
+Desafio: Jogadores Fifa
