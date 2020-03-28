@@ -1,31 +1,29 @@
-# CURSO DE DESENVOLVEDOR BACKEND - JAVA - CODENATION GUIABOLSO
+# Fibonacci
 
-Curso realizado em 2020 em parceria com o GuiaBolso duraten 10 semanas. O git foi organizado por branches, cada branch equivale a uma semana
+Faça um método `@Desafio("Fibonacci")` que retorne uma lista `java.util.List` com os primeiro números `Integer` da série de *Fibonacci* até *passar* de *350*.
 
-## Semana 1
-Conteúdos:
-- Java
-- Lógica de programação
+> A série de Fibonacci é a seguinte: 0, 1, 1, 2, 3, 5, 8, 13, etc...
+
+Faça um segundo método `@Desafio("isFibonnaci")` que recebe um `Integer` como parâmetro e retorne `Boolean`.
+Caso o número recebido por parâmetro esteja entre os números da sequência de *Fibonnaci* do `@Desafio("Fibonnaci")` retorne `true`, senão, `false`.
+
+## Tópicos
+
+Neste desafio você aprenderá:
+
+- Variáveis e métodos
 - Operadores matemáticos
-- Laços de repetição
-- Condicionais
+- Controle de fluxo
+- Listas
 
-Desafio: Calculadora de salário líquido
+## Requisitos
+​
+Para este desafio você precisará :
 
+- Java 8 +
 
-## Semana 2
-Conteúdos:
-- Arrays
-- Métodos booleanos, Interger
-- Exercícios: Pessoa, Agenda e Elevador (não concluídos)
+Para instalar no MacOS, usando o HomeBrew basta executar:
 
-Desafio: Sequencia de Fibonacci
+    brew cask install java
 
-## Semana 3
-
-- API Java util
-- Streams (map, filter, collect, distinct, sorted, limit)
-- Mapeamento, Lis, ArrayList
-- Ler CSV
-
-Desafio: Jogadores Fifa
+Para instalar no Linux e no Windows, confira os links na seção de conteúdo.
